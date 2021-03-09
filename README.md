@@ -189,6 +189,10 @@ Thank you all for your contributions!
 
 Many thanks to [YourKit, LLC](https://www.yourkit.com/) for providing a free license of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/index.jsp) to support the development of Easy Rules.
 
+## Simplified class diagram
+
+![class diagram](https://github.com/georon/easy-rules/easy_rules.png)
+
 ## License
 
 Easy Rules is released under the terms of the MIT license:
