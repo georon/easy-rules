@@ -191,7 +191,7 @@ Many thanks to [YourKit, LLC](https://www.yourkit.com/) for providing a free lic
 
 ## Simplified class diagram
 
-![class diagram](https://github.com/georon/easy-rules/easy_rules.png)
+![class diagram](easy_rules.png)
 
 ## License
 
